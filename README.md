@@ -1,8 +1,8 @@
-git clone
-cd client
-npm install
-npm start
-access frontend app via http://localhost:3000/
+git clone /
+cd client / 
+npm install / 
+npm start / 
+access frontend app via http://localhost:3000/ /
 
 cd server
 npm install
