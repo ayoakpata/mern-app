@@ -3,3 +3,9 @@
 # Declare variables to be passed into your templates.
 
 replicaCount: 1
+
+ports:
+  client: 3000
+  server: 5000
+  postgres: 5432
+
